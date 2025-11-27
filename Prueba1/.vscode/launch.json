@@ -5,7 +5,7 @@
             "name": "localhost",
             "request": "launch",
             "type": "al",
-            "environmentType": "OnPrem",
+            "environmentType": "Sandbox",
             "server": "http://localhost:8080/BC260",
             "serverInstance": "BC260",
             "authentication": "Windows",
